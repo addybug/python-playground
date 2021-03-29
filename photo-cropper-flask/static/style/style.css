@@ -1,0 +1,29 @@
+#crop {
+  background-color: transparent;
+  border: none;
+}
+
+#edit {
+  background: black;
+  display: none;
+}
+
+.holder {
+  position: relative;
+}
+
+.submit {
+  margin-top: 40px;
+}
+
+.fileup {
+  margin: 40px 0;
+}
+
+.result {
+  height: 150px;
+}
+
+.container {
+  margin-top: 30px;
+}
